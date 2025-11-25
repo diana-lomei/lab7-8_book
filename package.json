@@ -1,0 +1,12 @@
+{
+  "name": "lab7-8",
+  "version": "1.0.0",
+  "description": "Library project with Jest tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
